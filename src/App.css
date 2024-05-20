@@ -2,6 +2,49 @@
   text-align: center;
 }
 
+h2{
+  padding-top: 100px;
+}
+
+.title{
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.container{
+  margin-top: 40px;
+}
+
+.cabecalho{
+  background-color: #bcc5f1;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.lista{
+  background-color: #61dafb;
+  border: 3px, outset, #282c34;
+  border-radius: 10px;
+}
+
+.lista-vencidas{
+  background-color: #ffb3b3;
+  border: 3px, outset, #282c34;
+  border-radius: 10px;
+}
+
+.lista-concluidas{
+  background-color: #a5a5a5;
+  border: 3px, outset, #282c34;
+  border-radius: 10px;
+}
+
+.lista-itens{
+  border: 1px, solid, rgb(0,0,0,0.1);
+  border-left: none;
+  border-right: none;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
